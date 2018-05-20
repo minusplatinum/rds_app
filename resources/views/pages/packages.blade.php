@@ -4,7 +4,7 @@
      <!-- Content Row -->
      <div class="row">
         <div class="card m-3 p-2 bg-primary text-white">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique dignissimos, non quia eveniet eaque officia molestias voluptate voluptates debitis optio tenetur alias aliquid numquam enim, rem magni, architecto suscipit dolores.</p>    
+            <p>All of our website packages include a website domain name and hosting, additional domains and hosting options are available at the customers request.</p>    
         </div>     
     </div>    
     <!-- Content Row -->
@@ -45,11 +45,11 @@
                     <span>Starting at</span>
                     <h2>$299</h2>
                     <ul class="list-unstyled">
-                        <li>Responsive Website Layouts</li>
-                        <li>Mobile Friendly Designs</li>
-                        <li>Includes Up To 5 Webpages</li>
-                        <li>Image Galleries And Sliders</li>
-                        <li>Inquiry And Contact Forms</li>
+                        <li>Custom Designed Website Layouts</li>
+                        <li>Basic Database Setup Included</li>
+                        <li>Includes Up To 10 Webpages</li>
+                        <li>Custom Website Features</li>
+                        <li>Basic CMS & Ecommerce Websites</li>
                         <li>Custom Email Accounts</li>  
                     </ul>
                 </div>
@@ -70,12 +70,12 @@
                     <span>Starting at</span>
                     <h2>$499</h2>
                     <ul class="list-unstyled">
-                        <li>Responsive Website Layouts</li>
-                        <li>Mobile Friendly Designs</li>
-                        <li>Includes Up To 5 Webpages</li>
-                        <li>Image Galleries And Sliders</li>
-                        <li>Inquiry And Contact Forms</li>
-                        <li>Custom Email Accounts</li>   
+                        <li>Custom PHP Website Applications</li>
+                        <li>Premium Website Hosting Included</li>
+                        <li>Includes Up To 20 Responsive Webpages</li>
+                        <li>Integrate Third Party API's & Plugins</li>
+                        <li>Display Your Websites Content Dynamically</li>
+                        <li>Custom Email Accounts With @YourDomain.com</li>   
                     </ul>
                 </div>
                 <div class="card-footer">
