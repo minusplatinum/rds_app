@@ -74,7 +74,7 @@
                         </div>
                     <div class="card-body">
                         
-                        <p class="card-text">Need a website that offers content management, ecommerce or even a blog? The Basic Website Package offers all those features, learn more by clicking the link below!</p>
+                        <p class="card-text">Need a website that offers content management, ecommerce or even a blog?  The Basic Website Package includes all the features the Starter Package offers and much More!</p>
                         <ul class="list-unstyled">
                             <li>Responsive Mobile Friendly Designs</li>
                             <li>Includes Up To 10 Website Pages</li>
