@@ -5,7 +5,7 @@
         <div class="card">
             <div class="row">
                 <div class="col-lg-4">
-                    <img class="img-fluid img-rounded img-thumbnail" src="#" alt="Starter Package Image">
+                    <img class="img-fluid img-rounded img-thumbnail" src="placeholder.com/300x300" alt="Starter Package Image">
                 </div>
                 <div class="col-lg-8">
                     <p>The Starter Website Package is a great starting point for individuals and small businesses. It includes everything you need to get your website online and expand your reach to the online world.</p>
