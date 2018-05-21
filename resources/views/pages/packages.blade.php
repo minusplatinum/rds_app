@@ -1,15 +1,15 @@
 @extends('layouts.app')
 @section('content')
 <div class="container">
-    <div>
+    <div class="m-auto">
         <h3 class="my-3">Starter Website Package</h3>
     </div>
     <div class="row"> 
-        <div class="col-md-6">
-              <img class="img-fluid" src="http://placehold.it/350x250" alt="">
+        <div class="col-md-5 m-auto">
+              <img class="img-fluid" src="http://placehold.it/500x500" alt="">
         </div>
 
-        <div class="col-md-6">
+        <div class="col-md-7">
             <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
             <ul>
                 <li>Mobile Responsive Website Designs</li>
