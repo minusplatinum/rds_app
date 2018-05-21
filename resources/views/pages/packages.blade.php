@@ -2,12 +2,9 @@
 @section('content')
 <div class="container">
     <div class="row"> 
-        <div>
-            <h3 class="my-3">Starter Website Package</h3>
-        </div>
-
         <div class="col-md-6">
-              <img class="img-fluid" src="http://placehold.it/500x500" alt="">
+            <h3 class="my-3">Starter Website Package</h3>
+            <img class="img-fluid" src="http://placehold.it/500x500" alt="">
         </div>
 
         <div class="col-md-6">
