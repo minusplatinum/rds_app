@@ -1,76 +1,59 @@
-@extends('layouts.app')
-@section('content')
-<div class="container">
-    <div class="row px-3 my-3">
-        <div class="card">
-            <div class="row m-auto">
-                <h3>Starter Website Package</h3>
-            </div>
-            <div class="row m-auto">
-                <div class="col-md-4 my-2">
-                    <img class="img-fluid img-rounded img-thumbnail" src="http://via.placeholder.com/350x250" alt="Starter Package Image">
-                </div>
-                <div class="col-md-8">
-                    <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
-                    <ul>
-                        <li>Mobile Responsive Website Designs</li>
-                        <li>Includes Up To 5 Website Pages</li>
-                        <li>Image Galleries And Content Sliders</li>
-                        <li>Customer Inquiry And Contact Forms</li>
-                        <li>Custom Website Email Accounts</li>
-                    </ul>
-                    <a class="btn btn-lg btn-success btn-block d-md-inline" href="#">Get Started</a>
-                </div>
-            </div>
+
+      <!-- Portfolio Item Heading -->
+      <h1 class="my-4">Page Heading
+        <small>Secondary Text</small>
+      </h1>
+
+      <!-- Portfolio Item Row -->
+      <div class="row">
+
+        <div class="col-md-8">
+          <img class="img-fluid" src="http://placehold.it/750x500" alt="">
         </div>
-    </div> <!-- row end -->
-    
-    <div class="row px-3">
-        <div class="card">
-            <div class="row m-auto">
-                <h3>Basic Website Package</h3>
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <img class="img-fluid img-rounded img-thumbnail" src="http://via.placeholder.com/350x250" alt="Starter Package Image">
-                </div>
-                <div class="col-lg-8">
-                    <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
-                    <ul>
-                        <li>Mobile Responsive Website Designs</li>
-                        <li>Includes Up To 5 Website Pages</li>
-                        <li>Image Galleries And Content Sliders</li>
-                        <li>Customer Inquiry And Contact Forms</li>
-                        <li>Custom Website Email Accounts</li>
-                    </ul>
-                    <a class="btn btn-lg btn-success" href="#">Get Started</a>
-                </div>
-            </div>
+
+        <div class="col-md-4">
+          <h3 class="my-3">Project Description</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
+          <h3 class="my-3">Project Details</h3>
+          <ul>
+            <li>Lorem Ipsum</li>
+            <li>Dolor Sit Amet</li>
+            <li>Consectetur</li>
+            <li>Adipiscing Elit</li>
+          </ul>
         </div>
-    </div> <!-- row end -->
-    
-    <div class="row px-3">
-        <div class="card">
-            <div class="row m-auto">
-                <h3>Premium Website Package</h3>
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <img class="img-fluid img-rounded img-thumbnail" src="http://via.placeholder.com/350x250" alt="Starter Package Image">
-                </div>
-                <div class="col-lg-8">
-                    <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
-                    <ul>
-                        <li>Mobile Responsive Website Designs</li>
-                        <li>Includes Up To 5 Website Pages</li>
-                        <li>Image Galleries And Content Sliders</li>
-                        <li>Customer Inquiry And Contact Forms</li>
-                        <li>Custom Website Email Accounts</li>
-                    </ul>
-                    <a class="btn btn-lg btn-success" href="#">Get Started</a>
-                </div>
-            </div>
+
+      </div>
+      <!-- /.row -->
+
+      <!-- Related Projects Row -->
+      <h3 class="my-4">Related Projects</h3>
+
+      <div class="row">
+
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+          </a>
         </div>
-    </div> <!-- row end -->
-</div><!-- container end -->
-@endsection
+
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+          </a>
+        </div>
+
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+          </a>
+        </div>
+
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a href="#">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+          </a>
+        </div>
+
+      </div>
+      <!-- /.row -->
