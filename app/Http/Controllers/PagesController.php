@@ -47,7 +47,7 @@ class PagesController extends Controller
         );
         Mail::send('alerts.contactEmail', $data, function($message) use ($data){
             $message->from($data['email']);
-            $message->to('contact@rdswebdesigns.com);
+            $message->to('contact@rdswebdesigns.com');
             $message->subject($data['messageBody']);
         });
         return redirect('/')->with('success', 'Your Email Was Sent Successfully');
