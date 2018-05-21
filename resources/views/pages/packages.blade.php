@@ -1,3 +1,6 @@
+@extends('layouts.app')
+@section('content')
+<div class="container">
 
       <!-- Portfolio Item Heading -->
       <h1 class="my-4">Page Heading
@@ -57,3 +60,6 @@
 
       </div>
       <!-- /.row -->
+
+</div><!-- container end -->
+@endsection
