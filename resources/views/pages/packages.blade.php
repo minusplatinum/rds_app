@@ -27,7 +27,7 @@
     
     <div class="row px-3">
         <div class="card">
-            <div class="row">
+            <div class="row m-auto">
                 <h3>Basic Website Package</h3>
             </div>
             <div class="row">
@@ -51,7 +51,7 @@
     
     <div class="row px-3">
         <div class="card">
-            <div class="row">
+            <div class="row m-auto">
                 <h3>Premium Website Package</h3>
             </div>
             <div class="row">
