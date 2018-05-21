@@ -52,7 +52,7 @@
                             <h2 class="card-title ">Starter Website Package</h2>
                     </div>
                     <div class="card-body">
-                        <p class="card-text">Looking for a low cost solution to get your business online? Then the Starter Website Package is a perfect choice.</p>
+                        <p class="card-text">Looking for a low cost solution to get your organization or business online? Then the Starter Website Package is a perfect choice, offering all the tools you need to get started.</p>
                         <ul class="list-unstyled">
                             <li>Responsive Mobile Friendly Designs</li>
                             <li>One Custom Website Email Included</li>
