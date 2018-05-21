@@ -7,10 +7,10 @@
                 <h3>Starter Website Package</h3>
             </div>
             <div class="row m-auto">
-                <div class="col-lg-4 my-2">
+                <div class="col-md-4 my-2">
                     <img class="img-fluid img-rounded img-thumbnail" src="http://via.placeholder.com/350x250" alt="Starter Package Image">
                 </div>
-                <div class="col-lg-8">
+                <div class="col-md-8">
                     <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
                     <ul>
                         <li>Mobile Responsive Website Designs</li>
@@ -19,7 +19,7 @@
                         <li>Customer Inquiry And Contact Forms</li>
                         <li>Custom Website Email Accounts</li>
                     </ul>
-                    <a class="btn btn-lg btn-success btn-block d-lg-inline" href="#">Get Started</a>
+                    <a class="btn btn-lg btn-success btn-block d-md-inline" href="#">Get Started</a>
                 </div>
             </div>
         </div>
