@@ -52,10 +52,10 @@
                             <h2 class="card-title ">Starter Website Package</h2>
                     </div>
                     <div class="card-body">
-                        <p class="card-text">Looking for a low cost solution for getting your business online? Then the basic website package is a perfect choice. Starting at just $99 you can have a responsive website thats</p>
+                        <p class="card-text">Looking for a low cost solution to get your business online? Then the Starter Website Package is a perfect choice.</p>
                         <ul class="list-unstyled">
                             <li>Responsive Mobile Friendly Designs</li>
-                            <li>1 @YourDomain.com Email Included</li>
+                            <li>One Custom Website Email Included</li>
                             <li>Includes Up To 5 Website Pages</li>
                             <li>Google Maps Website Integration</li>
                             <li>Starter Website Hosting & Domain Credit Included</li>
@@ -74,7 +74,7 @@
                         </div>
                     <div class="card-body">
                         
-                        <p class="card-text">Looking for a low cost solution for getting your business online? Then the basic website package is a perfect choice. Starting at just $99 you can have a responsive website thats</p>
+                        <p class="card-text">Need a website that offers content management, ecommerce or even a blog? The Basic Website Package offers all those features, learn more by clicking the link below!</p>
                         <ul class="list-unstyled">
                             <li>Responsive Mobile Friendly Designs</li>
                             <li>Includes Up To 10 Website Pages</li>
@@ -96,7 +96,7 @@
                         </div>
                     <div class="card-body">
                         
-                        <p class="card-text">Looking for a low cost solution for getting your business online? Then the basic website package is a perfect choice. Starting at just $99 you can have a responsive website thats</p>
+                        <p class="card-text">Our Premium Website Package is designed for small to large businesses offering a wide range of features and addons.  The Premium Website Package includes all the features the Starter & Basic Packages offer and much More!</p>
                         <ul class="list-unstyled">
                             <li>Custom Website Templates & Themes</li>
                             <li>Includes Up To 20 Website Pages</li>
