@@ -19,7 +19,7 @@
                         <li>Customer Inquiry And Contact Forms</li>
                         <li>Custom Website Email Accounts</li>
                     </ul>
-                    <a class="btn btn-lg btn-success mr-auto" href="#">Get Started</a>
+                    <a class="btn btn-lg btn-success ml-auto" href="#">Get Started</a>
                 </div>
             </div>
         </div>
