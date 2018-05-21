@@ -96,7 +96,7 @@
                         </div>
                     <div class="card-body">
                         
-                        <p class="card-text">Our Premium Website Package is designed for small to large businesses offering a wide range of features and addons.  The Premium Website Package includes all the features the Starter & Basic Packages offer and much More!</p>
+                        <p class="card-text">Our Premium Website Package is designed for small to large businesses offering a wide range of features and addons.  The Premium Website Package includes all the features the Starter & Basic Packages offer and More!</p>
                         <ul class="list-unstyled">
                             <li>Custom Website Templates & Themes</li>
                             <li>Includes Up To 20 Website Pages</li>
