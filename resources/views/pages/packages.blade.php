@@ -3,7 +3,7 @@
 <div class="container">
     <div class="row px-3">
         <div class="card">
-            <div class="row text-center">
+            <div class="row m-auto">
                 <h3>Starter Website Package</h3>
             </div>
             <div class="row">
