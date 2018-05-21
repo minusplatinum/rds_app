@@ -6,7 +6,7 @@
     </div>
     <div class="row"> 
         <div class="col-md-5 m-auto">
-              <img class="img-fluid" src="http://placehold.it/350x250" alt="">
+              <img class="img-fluid" src="http://placehold.it/500x250" alt="">
         </div>
 
         <div class="col-md-7">
