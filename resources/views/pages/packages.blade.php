@@ -4,6 +4,9 @@
     <div class="row px-3">
         <div class="card">
             <div class="row">
+                <h3>Starter Website Package</h3>
+            </div>
+            <div class="row">
                 <div class="col-lg-4">
                     <img class="img-fluid img-rounded img-thumbnail" src="http://via.placeholder.com/350x250" alt="Starter Package Image">
                 </div>
@@ -22,4 +25,4 @@
         </div>
     </div>
 </div><!-- /.container -->
-@endsection
+@endsection 
