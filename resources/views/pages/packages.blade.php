@@ -3,8 +3,8 @@
 <div class="container">
     <div class="row px-3">
         <div class="card">
-            <div class="row">
-                <h3 class="text-center">Starter Website Package</h3>
+            <div class="row text-center">
+                <h3>Starter Website Package</h3>
             </div>
             <div class="row">
                 <div class="col-lg-4">
