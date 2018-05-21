@@ -6,7 +6,7 @@
             <div class="row m-auto">
                 <h3>Starter Website Package</h3>
             </div>
-            <div class="row">
+            <div class="row m-auto">
                 <div class="col-lg-4">
                     <img class="img-fluid img-rounded img-thumbnail" src="http://via.placeholder.com/350x250" alt="Starter Package Image">
                 </div>
