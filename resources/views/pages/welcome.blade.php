@@ -54,11 +54,11 @@
                     <div class="card-body">
                         <p class="card-text">Looking for a low cost solution for getting your business online? Then the basic website package is a perfect choice. Starting at just $99 you can have a responsive website thats</p>
                         <ul class="list-unstyled">
-                            <li>Mobile Friendly</li>
-                            <li>Includes Up To 5 Pages</li>
-                            <li>Google Maps</li>
-                            <li>And More!</li>
-                            <h6>Click the link below for more information!</h6>
+                            <li>Responsive Mobile Friendly Designs</li>
+                            <li>1 @YourDomain.com Email Included</li>
+                            <li>Includes Up To 5 Website Pages</li>
+                            <li>Google Maps Website Integration</li>
+                            <li>Starter Website Hosting & Domain Credit Included</li>
                         </ul>
                     </div>
                     <div class="card-footer">
@@ -76,11 +76,11 @@
                         
                         <p class="card-text">Looking for a low cost solution for getting your business online? Then the basic website package is a perfect choice. Starting at just $99 you can have a responsive website thats</p>
                         <ul class="list-unstyled">
-                            <li>Mobile Friendly</li>
-                            <li>Includes Up To 5 Pages</li>
-                            <li>Google Maps</li>
-                            <li>And More!</li>
-                            <h6>Click the link below for more information!</h6>
+                            <li>Responsive Mobile Friendly Designs</li>
+                            <li>Includes Up To 10 Website Pages</li>
+                            <li>Custom Contact Forms & Signups</li>
+                            <li>Custom Website Features & Plugins</li>
+                            <li>Basic Website Hosting & Domain Credit Included</li>
                         </ul>
                     </div>
                     <div class="card-footer">
