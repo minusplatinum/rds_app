@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <div class="container">
-    <div class="row px-3">
+    <div class="row px-3 my-3">
         <div class="card">
             <div class="row m-auto">
                 <h3>Starter Website Package</h3>
