@@ -21,7 +21,7 @@
                 </div>
                 <div class="carousel-item">
                     <div style="min-height:300px;" class="welcomeSlide3 text-center py-3">
-                        <h1 class="display-4">Looking For Awesome Website Features & Plugins?</h1>
+                        <h1 class="display-4">Awesome Website Features & Plugins?</h1>
                         <p class="lead text-muted font-weight-bold mx-3 my-0">We Have A Wide Range Of Modern Website Plugins & Custom Features!</p>
                         <a class="btn btn-success btn-lg" href="#" role="button">Learn More!</a>
                     </div>
@@ -84,7 +84,7 @@
                         </ul>
                     </div>
                     <div class="card-footer">
-                        <a href="#" class="btn btn-lg btn-block btn-success">More Info</a>
+                        <a href="#" class="btn btn-lg btn-block btn-success">Learn More!</a>
                     </div>
                 </div>
             </div>
@@ -98,15 +98,15 @@
                         
                         <p class="card-text">Looking for a low cost solution for getting your business online? Then the basic website package is a perfect choice. Starting at just $99 you can have a responsive website thats</p>
                         <ul class="list-unstyled">
-                            <li>Mobile Friendly</li>
-                            <li>Includes Up To 5 Pages</li>
-                            <li>Google Maps</li>
-                            <li>And More!</li>
-                            <h6>Click the link below for more information!</h6>
+                            <li>Premium Website Hosting</li>
+                            <li>Includes Up To 20 Pages</li>
+                            <li>Custom Website Applications</li>
+                            <li>Free Domain Name & Custom Email</li>
+                            <li>Third Party API & Plugin Integration</li>
                         </ul>
                     </div>
                     <div class="card-footer">
-                        <a href="#" class="btn btn-lg btn-block btn-success">More Info</a>
+                        <a href="#" class="btn btn-lg btn-block btn-success">Learn More!</a>
                     </div>
                 </div>
             </div><!-- /.col-md-4 -->
@@ -187,4 +187,4 @@
         </div>
     </div><!-- container end -->
 </div>
-@endsection 
+@endsection
