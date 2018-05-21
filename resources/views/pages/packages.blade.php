@@ -1,10 +1,12 @@
 @extends('layouts.app')
 @section('content')
 <div class="container">
+    <div>
+        <h3 class="my-3">Starter Website Package</h3>
+    </div>
     <div class="row"> 
         <div class="col-md-6">
-            <h3 class="my-3">Starter Website Package</h3>
-            <img class="img-fluid" src="http://placehold.it/500x500" alt="">
+              <img class="img-fluid" src="http://placehold.it/500x500" alt="">
         </div>
 
         <div class="col-md-6">
@@ -19,7 +21,6 @@
             <a class="btn btn-lg btn-success btn-block d-md-inline" href="#">Get Started</a>
         </div>
     </div><!-- /.row -->
-    
     <div class="row px-3">
         <div class="card">
             <div class="row m-auto">
