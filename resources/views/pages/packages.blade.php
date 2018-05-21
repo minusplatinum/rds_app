@@ -8,7 +8,7 @@
                     <img class="img-fluid img-rounded img-thumbnail" src="http://via.placeholder.com/350x250" alt="Starter Package Image">
                 </div>
                 <div class="col-lg-8">
-                    <p>The Starter Website Package is a great starting point for individuals and small businesses. It includes everything you need to get your website online and expand your reach to the online world.</p>
+                    <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
                     <ul>
                         <li>Mobile Responsive Website Designs</li>
                         <li>Includes Up To 5 Website Pages</li>
@@ -16,7 +16,7 @@
                         <li>Customer Inquiry And Contact Forms</li>
                         <li>Custom Website Email Accounts</li>
                     </ul>
-                    <a class="btn btn-lg btn-success mr-auto" href="#">Get Started</a>
+                    <a class="btn btn-lg btn-success" href="#">Get Started</a>
                 </div>
             </div>
         </div>
