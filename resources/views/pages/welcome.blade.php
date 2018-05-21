@@ -98,11 +98,11 @@
                         
                         <p class="card-text">Looking for a low cost solution for getting your business online? Then the basic website package is a perfect choice. Starting at just $99 you can have a responsive website thats</p>
                         <ul class="list-unstyled">
-                            <li>Premium Website Hosting</li>
-                            <li>Includes Up To 20 Pages</li>
-                            <li>Custom Website Applications</li>
-                            <li>Free Domain Name & Custom Email</li>
+                            <li>Custom Website Templates & Themes</li>
+                            <li>Includes Up To 20 Website Pages</li>
+                            <li>Custom PHP Website Applications</li>
                             <li>Third Party API & Plugin Integration</li>
+                            <li>Premium Website Hosting & Domain Credit Included</li>
                         </ul>
                     </div>
                     <div class="card-footer">
