@@ -1,16 +1,14 @@
 @extends('layouts.app')
 @section('content')
 <div class="container-fluid py-5 packagesImage">
-    <div class="container serviceContainer">
-        <div class="m-auto text-sm-center text-md-left text-lg-center">
-            <h3 class="my-3">Starter Website Package</h3>
-        </div>
+    <div class="container serviceContainer py-3">
         <div class="row"> 
             <div class="col-md-5 m-auto">
-                  <img class="img-fluid" src="http://placehold.it/700x500" alt="">
+            <img class="img-fluid" src="{{ asset('/storage/images/standardPackage.png') }}" alt="">
             </div>
     
             <div class="col-md-7">
+                <h3 class="my-3">Starter Website Package</h3>
                 <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
                 <ul>
                     <li>Mobile Responsive Website Designs</li>
@@ -25,15 +23,13 @@
     </div>
 <hr>
     <div class="container serviceContainer py-3">
-        <div class="m-auto">
-            <h3 class="my-3">Basic Website Package</h3>
-        </div>
         <div class="row"> 
             <div class="col-md-5 m-auto">
-                  <img class="img-fluid" src="http://placehold.it/700x500" alt="">
+                  <img class="img-fluid" src="{{ asset('/storage/images/basicPackage.png') }}" alt="">
             </div>
     
             <div class="col-md-7">
+                <h3 class="my-3">Basic Website Package</h3>
                 <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
                 <ul>
                     <li>Mobile Responsive Website Designs</li>
@@ -48,15 +44,13 @@
     </div>
 <hr>
     <div class="container serviceContainer py-3">
-        <div class="m-auto">
-            <h3 class="my-3">Premium Website Package</h3>
-        </div>
         <div class="row"> 
             <div class="col-md-5 m-auto">
-                  <img class="img-fluid" src="http://placehold.it/700x500" alt="">
+                  <img class="img-fluid" src="{{ asset('/storage/images/premiumPackage.png') }}" alt="">
             </div>
     
             <div class="col-md-7">
+                <h3 class="my-3">Premium Website Package</h3>
                 <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p>
                 <ul>
                     <li>Mobile Responsive Website Designs</li>
