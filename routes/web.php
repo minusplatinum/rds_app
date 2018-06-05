@@ -20,6 +20,8 @@ Route::get('packages', 'PagesController@packages')->name('packages');
 
 Route::get('templates', 'PagesController@templates')->name('templates');
 
+Route::get('templates/{id}', 'PagesController@template')->name('template');
+
 Route::get('contact', 'PagesController@contact')->name('contact');
 
 Route::post('contact', 'PagesController@contactForm')->name('contactForm');

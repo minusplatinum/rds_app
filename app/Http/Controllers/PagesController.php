@@ -29,6 +29,12 @@ class PagesController extends Controller
         return view('pages.templates')->with('templates', $templates);
     }
 
+    public function template()
+    {
+        $templates = Template::all();
+        return view('pages.template')->with('templates', $templates);
+    }
+
     public function contact()
     {
         return view('pages.contact');
