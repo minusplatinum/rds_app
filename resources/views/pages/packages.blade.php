@@ -7,13 +7,13 @@
                 <h4 class="my-0 font-weight-normal">Starter</h4>
             </div>
             <div class="card-body">
-                <p>The Starter Website Package is a great starting point for individuals and small businesses to expand to the online world. It includes all the basic tools and features to make a modern responsive website.</p> <br>           
+                <p>Looking for a low cost solution to get your organization or business online? Then the Starter Website Package is a perfect choice, offering all the services and tools you will need to get your business online.</p><br>           
                 <h1 class="card-title pricing-card-title">$199</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Basic Contact Form</li>
-                    <li>Custom Email accounts</li>
-                    <li>Mobile Responsive Designs</li>
-                    <li>Domain Credit & Hosting Included</li>
+                    <li>Responsive Mobile Friendly Designs</li>
+                    <li>Custom Website Email Included</li>
+                    <li>Includes Up To 5 Website Pages</li>
+                    <li>Google Maps Website Integration</li>
                 </ul>
                 <button type="button" class="btn btn-lg btn-block btn-outline-success">Get Started!</button>
             </div>
@@ -23,13 +23,13 @@
                 <h4 class="my-0 font-weight-normal">Basic</h4>
             </div>
             <div class="card-body">
-                <p>The Basic Website package includes the same features as the starter package and much more. The basic package offers custom contact forms, SQL databases, Google Maps, CMS and Ecommerce.</p>  <br>              
+                <p>Need a website that offers content management, ecommerce or even a blog? The Basic Website Package includes all the features the Starter Package offers and all the tools required to get your business online!</p><br>              
                 <h1 class="card-title pricing-card-title">$299</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Custom Website Designs</li>
-                    <li>Third Party API Integrations</li>
-                    <li>Complete CMS & Ecommerce</li>
-                    <li>Custom website features & addons</li>
+                    <li>Custom Contact Forms & Signups</li>
+                    <li>Includes Up To 10 Website Pages</li>
+                    <li>Custom Website Features & Plugins</li>
+                    <li>Basic Hosting & Domain Included</li>
                     
                 </ul>
                 <button type="button" class="btn btn-lg btn-block btn-outline-success">Get Started!</button>
@@ -40,13 +40,13 @@
                 <h4 class="my-0 font-weight-normal">Premium</h4>
             </div>
             <div class="card-body">
-                <p>The Premium Website package is as unique as your website, it offers flexability at an affordable cost. This package is a perfect choice for website applications, large ecommerce and CMS as well as large multi page websites.</p>
+                <p>Our Premium Website Package is designed for small to large businesses offering a wide range of features and addons. The Premium Website Package includes all the features the Starter & Basic Packages offer and More!</p>
                 <h1 class="card-title pricing-card-title">$499</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>30 users included</li>
-                    <li>15 GB of storage</li>
-                    <li>Phone and email support</li>
-                    <li>Help center access</li>
+                    <li>Custom Templates & Themes</li>
+                    <li>Includes Up To 20 Website Pages</li>
+                    <li>Custom PHP Website Applications</li>
+                    <li>Third Party API & Plugin Integration</li>
                 </ul>
                 <button type="button" class="btn btn-lg btn-block btn-outline-success">Get Started!</button>
             </div>
