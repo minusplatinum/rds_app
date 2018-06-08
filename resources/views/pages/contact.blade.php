@@ -41,16 +41,16 @@
         <div class="col-12 mt-5">
             <div class="row text-center">
                 <div class="col-md-4">
-                    <i style="font-size: 35px" class="material-icons text-primary">email</i>
+                    <i style="font-size: 35px" class="material-icons text-info">email</i>
                     <h5>Email Us</h5>
                     <ul class="list-unstyled">
-                        <li>Support Inquiries - <a href="mailto:support@webbie.website">support@webbie.website</a></li>                        
-                        <li>General Inquiries - <a href="mailto:contact@webbie.website">contact@webbie.website</a></li>
-                        <li>Sales Inquiries - <a href="mailto:sales@webbie.website">sales@webbie.website</a></li>
+                        <li>Support Inquiries - <a href="mailto:support@rdswebdesigns.com">support@rdswebdesigns.com</a></li>                        
+                        <li>General Inquiries - <a href="mailto:contact@rdswebdesigns.com">contact@rdswebdesigns.com</a></li>
+                        <li>Sales Inquiries - <a href="mailto:sales@rdswebdesigns.com">sales@rdswebdesigns.com</a></li>
                     </ul>
                 </div>   
                 <div class="col-md-4">
-                    <i style="font-size:35px;" class="material-icons text-primary">phone</i>
+                    <i style="font-size:35px;" class="material-icons text-info">phone</i>
                     <h5>Call Us</h5>
                     <ul class="list-unstyled">
                         <li>Telephone 000-000-0000</li>
@@ -59,7 +59,7 @@
                     </ul>
                 </div>             
                 <div class="col-md-4">
-                    <i style="font-size:35px;" class="material-icons text-primary">add_location</i>
+                    <i style="font-size:35px;" class="material-icons text-info">add_location</i>
                     <h5>Address</h5>
                     <ul class="list-unstyled">
                         <li>123 Main Street</li>

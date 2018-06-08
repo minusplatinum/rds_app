@@ -16,7 +16,7 @@
  */
 Route::get('/', 'PagesController@index')->name('index');
 
-Route::get('packages', 'PagesController@packages')->name('packages');
+Route::get('services', 'PagesController@services')->name('services');
 
 Route::get('templates', 'PagesController@templates')->name('templates');
 

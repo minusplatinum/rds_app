@@ -4,10 +4,10 @@
     <div class="card-deck mb-3 text-center">
         <div class="card mb-4 box-shadow">
             <div class="card-header alert alert-primary">
-                <h4 class="my-0 font-weight-normal">Starter</h4>
+                <h4 class="my-0 font-weight-normal">Starter Website</h4>
             </div>
             <div class="card-body">
-                <p>Looking for a low cost solution to get your organization or business online? Then the Starter Website Package is a perfect choice, offering all the services and tools you will need to get your business online.</p><br>           
+                <p>Looking for a low cost solution to get your organization or business online? Then the Starter Website Package is a perfect choice, offering all the services and tools you will need to get your business online.</p>           
                 <h1 class="card-title pricing-card-title">$199</h1>
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>Responsive Mobile Friendly Designs</li>
@@ -20,10 +20,10 @@
         </div>
         <div class="card mb-4 box-shadow">
             <div class="card-header alert alert-info">
-                <h4 class="my-0 font-weight-normal">Basic</h4>
+                <h4 class="my-0 font-weight-normal">Basic Website</h4>
             </div>
             <div class="card-body">
-                <p>Need a website that offers content management, ecommerce or even a blog? The Basic Website Package includes all the features the Starter Package offers and all the tools required to get your business online!</p><br>              
+                <p>Need a website that offers content management, ecommerce or even a blog? The Basic Website Package includes all the features the Starter Package offers and all the tools required to get your business online!</p>             
                 <h1 class="card-title pricing-card-title">$299</h1>
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>Custom Contact Forms & Signups</li>
@@ -37,7 +37,7 @@
         </div>
         <div class="card mb-4 box-shadow">
             <div class="card-header alert alert-success">
-                <h4 class="my-0 font-weight-normal">Premium</h4>
+                <h4 class="my-0 font-weight-normal">Premium Website</h4>
             </div>
             <div class="card-body">
                 <p>Our Premium Website Package is designed for small to large businesses offering a wide range of features and addons. The Premium Website Package includes all the features the Starter & Basic Packages offer and More!</p>

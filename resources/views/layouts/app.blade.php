@@ -23,7 +23,7 @@
         
     </head>
     <body id="page-top">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary py-5">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-info py-5">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">RDS Web Design</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,9 +32,9 @@
     
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
-                    <ul class="navbar-nav mr-auto">
+                    <ul class="navbar-nav ml-auto">
                         <li class="nav-item {{ Request::is('/') ? 'active' : '' }}"><a class="nav-link" href="{{ url('/') }}">Home</a></li>
-                        <li class="nav-item {{ Request::is('packages*') ? 'active' : '' }}"><a class="nav-link" href="{{ url('packages') }}">Packages</a></li>
+                        <li class="nav-item {{ Request::is('services*') ? 'active' : '' }}"><a class="nav-link" href="{{ url('services') }}">Services</a></li>
                         <li class="nav-item {{ Request::is('templates*') ? 'active' : '' }}"><a class="nav-link" href="{{ url('templates') }}">Templates</a></li>
                         <li class="nav-item {{ Request::is('contact*') ? 'active' : '' }}"><a class="nav-link" href="{{ url('/contact') }}">Contact</a></li>
                     </ul>
@@ -47,21 +47,8 @@
         @yield('content')
         </main>
     
-        <div class="container-fluid py-2 bg-primary">
-            <hr class="mx-5">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-                <div class="container">
-                    <ul class="navbar-nav m-auto">
-                        <li class="nav-item"><a class="navbar-brand" href="{{ url('/') }}">RDS Web Design</a></li>
-                        <li class="nav-item m-auto {{ Request::is('/') ? 'active' : '' }}"><a class="nav-link" href="{{ url('/') }}">Home</a></li>
-                        <li class="nav-item m-auto {{ Request::is('packages*') ? 'active' : '' }}"><a class="nav-link" href="{{ url('packages') }}">Packages</a></li>
-                        <li class="nav-item m-auto {{ Request::is('templates*') ? 'active' : '' }}"><a class="nav-link" href="{{ url('templates') }}">Templates</a></li>
-                        <li class="nav-item m-auto {{ Request::is('contact*') ? 'active' : '' }}"><a class="nav-link" href="{{ url('/contact') }}">Contact</a></li>
-                    </ul>
-                </div>
-            </nav>
-            <hr class="mx-5">
-            <div class="row d-flex justify-content-center">
+        <div class="container-fluid py-5 bg-info">
+            <div class="row py-5 d-flex justify-content-center">
                 <div class="">
                     <ul class="list-unstyled list-inline social text-center">
                         <li class="list-inline-item"><a class="text-white" href="https://www.facebook.com"><i class="fab fa-facebook fa-3x"></i></a></li>

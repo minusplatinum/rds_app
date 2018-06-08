@@ -16,7 +16,7 @@ class PagesController extends Controller
         return view('pages.welcome');
     }
 
-    public function packages()
+    public function services()
     {
         $packages = Package::all();
         
