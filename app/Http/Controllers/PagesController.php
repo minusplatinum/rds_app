@@ -17,10 +17,8 @@ class PagesController extends Controller
     }
 
     public function services()
-    {
-        $packages = Package::all();
-        
-        return view('pages.packages')->with('packages', $packages);
+    {   
+        return view('pages.packages');
     }
 
     public function templates()
