@@ -57,8 +57,11 @@ body{
 
   @media(max-width:568px){
     .welcomeImage, .packagesImage, .templatesImage{
-      background-image:none;
-      background-color: #94e4ea;
+      /*
+        background-image:none;
+        background-color: #94e4ea;
+      */
+      background-attachment:scroll;
     }
 
   }

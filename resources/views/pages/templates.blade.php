@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <!-- Page Content -->
-<div class="container-fluid py-5 templatesImage">
+<div class="container-fluid welcomeImage py-5">
     <div class="container">
         <div class="row templateOpacity">
             <div class="m-auto">

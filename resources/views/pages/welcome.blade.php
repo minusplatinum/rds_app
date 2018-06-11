@@ -14,7 +14,6 @@
       <div class="col-lg-4">
         <h1 class="font-weight-bold text-white">Looking For A Modern, Responsive And Mobile Friendly Website?</h1>
         <p class="font-weight-bold text-light">You have come to the right place, our packages include the most popular PHP frameworks, javascript and jquery libraries as well as Bootstrap 4. We also offer Wordpress and other popular CMS software as well as a variety of ecommerce solutions to suit your needs. </p>
-        <a href="#" class="btn btn-block btn-lg btn-success">Learn More!</a>
       </div>
       <!-- /.col-md-4 -->
     </div>
@@ -36,7 +35,7 @@
             <p class="card-text">Looking for a low cost solution to get your organization or business online? Then the Starter Website Package is a perfect choice, offering all the services and tools you will need to get your business online.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-block btn-info">More Info</a>
+            <a href="services" class="btn btn-block btn-info">More Info</a>
           </div>
         </div>
       </div>
@@ -48,7 +47,7 @@
             <p class="card-text">Need a website that offers content management, ecommerce or even a blog? The Basic Website Package includes all the features the Starter Package offers and all the tools required to get your business online!</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-block btn-info">More Info</a>
+            <a href="services" class="btn btn-block btn-info">More Info</a>
           </div>
         </div>
       </div>
@@ -60,7 +59,7 @@
             <p class="card-text">Our Premium Website Package is designed for small to large businesses offering a wide range of features and addons. The Premium Website Package includes all the features the Starter & Basic Packages offer and More!</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-block btn-info">More Info</a>
+            <a href="services" class="btn btn-block btn-info">More Info</a>
           </div>
         </div>
       </div>
