@@ -32,7 +32,7 @@
                 </div>
                 @csrf
                 <div class="form-group">
-                    <input class="form-control bg-info border-info font-weight-bold" type="submit" value="Send Message">
+                    <input class="text-white form-control bg-info border-info font-weight-bold" type="submit" value="Send Message">
                 </div>
             </form>
         </div>
