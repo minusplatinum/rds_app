@@ -54,16 +54,16 @@
                     <i style="font-size:35px;" class="material-icons text-info">phone</i>
                     <h5 class="font-weight-bold">Call Us</h5>
                     <ul class="list-unstyled">
+                        <br>
                         <li>Telephone 000-000-0000</li>
                         <li>Fax 000-000-0000</li>
-                        <li>Skype 000-000-0000</li>
                     </ul>
                 </div>             
                 <div class="col-md-4">
                     <i style="font-size:35px;" class="material-icons text-info">add_location</i>
-                    <h5 class="font-weight-bold">Address</h5>
+                    <h5 class="font-weight-bold">Location</h5>
                     <ul class="list-unstyled">
-                        <li>123 Main Street</li>
+                        <br>
                         <li>Delhi, Ontario</li>
                         <li>N4B 1C1, Canada</li>
                     </ul>
