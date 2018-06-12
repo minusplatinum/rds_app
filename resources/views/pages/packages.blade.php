@@ -16,7 +16,7 @@
                         <li>Up To 5 Website Pages</li>
                         <li>Google Maps Integration</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-block btn-outline-success">Get Started!</button>
+                    
                 </div>
             </div>
             <div class="card mb-4 box-shadow">
@@ -33,7 +33,7 @@
                         <li>Basic Hosting & Domain Included</li>
                         
                     </ul>
-                    <button type="button" class="btn btn-lg btn-block btn-outline-success">Get Started!</button>
+                    
                 </div>
             </div>
             <div class="card mb-4 box-shadow">
@@ -49,10 +49,107 @@
                         <li>PHP Website Applications</li>
                         <li>Third Party API & Plugins</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-block btn-outline-success">Get Started!</button>
+                    
                 </div>
             </div>
         </div>        
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>Looking For A Quick, Easy And Affordable Website?</h2>
+                <p>The Starter Website Package includes:</p>
+                <ul>
+                <li>
+                    <strong>Free Bootstrap 4 Templates</strong>
+                </li>
+                <li>A variety of features and addons</li>
+                <li>Website hosting and domain credit</li>
+                <li>Working contact form with validation</li>
+                <li>Unstyled page elements for easy customization</li>
+                </ul>
+                <p>The Starter Website Package is an excellent choice for temporary websites, landing pages, single product websites, online resumes and much more! </p>
+            </div>
+            <div class="col-lg-6">
+            <img class="img-fluid rounded" src="{{ asset('storage/images/siteBuilder.png') }}" alt="">
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Call to Action Section -->
+        <div class="row mb-4">
+            <div class="col-md-8">
+                <p></p>
+            </div>
+            <div class="col-md-4">
+                <a class="btn btn-lg btn-info btn-block" href="contact">Request Call Back</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>Need A Website That Grows With Your Business?</h2>
+                <p>The Basic Website Package includes:</p>
+                <ul>
+                <li>
+                    <strong>Custom Designed Website Pages</strong>
+                </li>
+                <li>Third Party plugins and API integrations</li>
+                <li>Website hosting and domain credit</li>
+                <li>CMS, blog and ecommerce software installations</li>
+                <li>Custom website features, contact forms and more!</li>
+                </ul>
+                <p>The Basic Website Package includes the same features as the Starter Website Package and so much more! Some of the features available include embedding videos, photo galleries and even Google Maps!</p>
+            </div>
+            <div class="col-lg-6">
+            <img class="img-fluid rounded" src="{{ asset('storage/images/index1.jpg') }}" alt="">
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Call to Action Section -->
+        <div class="row mb-4">
+            <div class="col-md-8">
+                <p></p>
+            </div>
+            <div class="col-md-4">
+                <a class="btn btn-lg btn-info btn-block" href="contact">Request Call Back</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>Does Your Website Require More Space, More Email And More Speed?</h2>
+                <p>The Premium Website Package includes:</p>
+                <ul>
+                <li>Unlimted custom email accounts</li>
+                <li>More bandwidth, storage and databases!</li>
+                <li>Website hosting and domain credit</li>
+                <li>Custom PHP functions and features</li>
+                <li>Custom contact forms, registration forms and newsletters</li>
+                </ul>
+                <p>The Premium Website Package includes all the features the Starter and Basic Packages offers, plus the ability to have your own website application. Website applications are great for large website with lots of pages or companies that have lots of dynamic content. Either way this website package will be perfect for your business's website.</p>
+            </div>
+            <div class="col-lg-6">
+            <img class="img-fluid rounded" src="{{ asset('storage/images/index2.jpg') }}" alt="">
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Call to Action Section -->
+        <div class="row mb-4">
+            <div class="col-md-8">
+                <p></p>
+            </div>
+            <div class="col-md-4">
+                <a class="btn btn-lg btn-info btn-block" href="contact">Request Call Back</a>
+            </div>
+        </div>                          
     </div>    
 </div>    
 @endsection
